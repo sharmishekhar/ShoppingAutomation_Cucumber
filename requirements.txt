@@ -1,0 +1,9 @@
+playwright
+pytest
+pytest-xdist
+pytest-rerunfailures
+pytest-bdd
+allure-pytest
+pandas
+loguru
+openai
